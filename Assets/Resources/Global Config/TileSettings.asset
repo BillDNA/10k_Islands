@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 879ea3b685cfc43418a75d01e6837a51, type: 3}
+  m_Name: TileSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  pickUpScale: {x: 1.1, y: 1.1}
+  pickUpTime: 0.25
+  RGODefault: {fileID: 21300000, guid: 0e5ce08adf0cf8f45b6372e216901821, type: 3}
+  BuildingDefault: {fileID: 21300000, guid: 9e1ffbe8d0b615b47914cc2ca447e8c4, type: 3}
+  EmptyRGO: {fileID: 21300000, guid: 0e5ce08adf0cf8f45b6372e216901821, type: 3}
+  EmptyBuilding: {fileID: 21300000, guid: 9e1ffbe8d0b615b47914cc2ca447e8c4, type: 3}

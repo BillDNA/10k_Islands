@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ea5e2cd92e29498d82b61799a059069, type: 3}
+  m_Name: TerrainSettings
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  HexSize: 1.28
+  terrainSpriteBook:
+    keyData: 000000000200000001000000030000000400000005000000
+    valueData:
+    - sprites:
+      - {fileID: 21300000, guid: 4fd806597af36dc418ff94aba10c90a6, type: 3}
+      - {fileID: 21300000, guid: 464c392f8cea6b4418032a2396872c57, type: 3}
+      - {fileID: 21300000, guid: 142f54e386f41f349aee4b43944fef36, type: 3}
+      - {fileID: 21300000, guid: 912605f6db2a9234bb7feafc3a0655b5, type: 3}
+    - sprites:
+      - {fileID: 21300000, guid: ff82e10631e5ed542880eebb5bcfed3a, type: 3}
+      - {fileID: 21300000, guid: 99a934cad7542ed41819255942968a1d, type: 3}
+      - {fileID: 21300000, guid: 999118f269ad1a94bb8439efd6c11e8f, type: 3}
+      - {fileID: 21300000, guid: 926371c6928788a40a04edc29f911931, type: 3}
+    - sprites:
+      - {fileID: 21300000, guid: 242f9e2d40993184b86a5f6612cdf9ff, type: 3}
+      - {fileID: 21300000, guid: 30a58a43a543d96499f8ddec24c3b68a, type: 3}
+      - {fileID: 21300000, guid: 9c01e0b6f0d489945aaed9fa35a602d8, type: 3}
+      - {fileID: 21300000, guid: 348aaecda7dc730409a47ee97507de4b, type: 3}
+    - sprites:
+      - {fileID: 21300000, guid: c0cc93cce6b27744e85f7ccc6b3db00a, type: 3}
+      - {fileID: 21300000, guid: 930869bc0c618d446a525c196a58129d, type: 3}
+      - {fileID: 21300000, guid: a574bb28797e67646805085db5d5c8b0, type: 3}
+      - {fileID: 21300000, guid: e811ff7d176db66489a5e51e09524082, type: 3}
+    - sprites:
+      - {fileID: 21300000, guid: 222aae9b94ca9b748a0dd182a2ec47f3, type: 3}
+      - {fileID: 21300000, guid: 93312d4222ad61446be900d97031204b, type: 3}
+      - {fileID: 21300000, guid: 5f80ab8898b7b0743850c4ee3cbe87ff, type: 3}
+      - {fileID: 21300000, guid: 5ad37662d488fc14a9c5c854022b9e06, type: 3}
+    - sprites:
+      - {fileID: 21300000, guid: 85980b2265ff45344b1513252dd5d6ef, type: 3}
+      - {fileID: 21300000, guid: 4e30581d44e8de74b8cef8615a827296, type: 3}
+      - {fileID: 21300000, guid: e51d401b0ad3bfa458c17e39fa1d0fe2, type: 3}
+      - {fileID: 21300000, guid: 7b67d17dfc98d5848af25c32dd1051cd, type: 3}
+  TerrainChances:
+    keyData: 000000000100000002000000030000000400000005000000
+    valueData:
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 010000000000000000000000000000000000000000000000
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 000000000300000001000000000000000100000000000000
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 000000000100000002000000010000000100000000000000
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 000000000100000003000000010000000100000000000000
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 000000000100000001000000000000000100000000000000
+    - _influence:
+        keyData: 000000000100000002000000030000000400000005000000
+        valueData: 000000000000000000000000000000000000000000000000
+  NeighborInfluenceToBiome: 0.15

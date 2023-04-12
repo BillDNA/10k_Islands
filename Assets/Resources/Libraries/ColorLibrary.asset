@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93186fe4ea6e64cdfa37e69e90d4de63, type: 3}
+  m_Name: ColorLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::ColorLibrary
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  clear: {r: 0, g: 0, b: 0, a: 0}
+  TitleColors:
+  - {r: 0.5354852, g: 0.20478818, b: 0.735849, a: 0.5019608}
+  - {r: 0.9056604, g: 0.38020647, b: 0.69115216, a: 0.5019608}
+  - {r: 0.18836774, g: 0.28062725, b: 0.7830189, a: 0.5019608}
+  TileHexGlow: {r: 0.9056604, g: 0.84690106, b: 0.34603062, a: 0.78431374}
+  TileHexPinnedGlow: {r: 0.34509802, g: 0.90588236, b: 0.86158895, a: 0.78431374}
+  TerrainHexGlow: {r: 0.9056604, g: 0.84690106, b: 0.34603062, a: 0.78431374}
+  TerrainHexPinnedGlow: {r: 0.34509802, g: 0.90588236, b: 0.86158895, a: 0.78431374}
+  TerrainHexFloatingValid: {r: 0.10937794, g: 0.6886792, b: 0.029236369, a: 0.78431374}
+  TerrainHexFloatingBlocked: {r: 0.8301887, g: 0.23140602, b: 0.12922749, a: 0.78431374}
+  TerrainHexFloatingOtherBlocked: {r: 0.9245283, g: 0.59964824, b: 0.15263437, a: 0.78431374}

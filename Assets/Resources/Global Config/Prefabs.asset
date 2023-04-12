@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa9760833042249e88fe0197423f4a3d, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  island: {fileID: 6105051305180141043, guid: b52233179d7f84d7ab1e106285e1caa5, type: 3}
+  terrainHex: {fileID: 2478153945103204540, guid: b6a662138a8d44a8887836d4a8f65ccd, type: 3}
+  EmptyTile: {fileID: 5196783686490452813, guid: f4f962538dcaf4861999badcfcfe51d1, type: 3}
+  tileHex: {fileID: 6236566214373365245, guid: 90260abc1ba6647e78a5ec7e25281d15, type: 3}
+  RGOPrefab: {fileID: 3736156510841715406, guid: 0a977e6b5c33f4544aae4c63739ce976, type: 3}
+  BuildingPrefab: {fileID: 7502719659021422244, guid: 3ef56ccd3748c49d8a55844e797fcbb2, type: 3}

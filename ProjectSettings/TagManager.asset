@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 313456901
+    locked: 0
+  - name: Terrain
+    uniqueID: 4192608911
+    locked: 0
+  - name: Tile
+    uniqueID: 1041247085
+    locked: 0
+  - name: Hover Pinned
+    uniqueID: 4013027833
+    locked: 0
+  - name: Hover
+    uniqueID: 1568839097
+    locked: 0
+  - name: Tray
+    uniqueID: 3014141709
+    locked: 0
+  - name: TrayHover
+    uniqueID: 2576145293
+    locked: 0
+  - name: Floating
+    uniqueID: 126753493
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Debug
+    uniqueID: 4039752189
+    locked: 0
